@@ -1,0 +1,12 @@
+{
+  "name": "forma-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack portfolio demo project for Ziad Tareek",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.16.0"
+  }
+}
